@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "zip": "https://aka.doubaocdn.com/s/PlJ25GXxV1",
-  "sha256": "29af4f62292589036214b250c47045ec617195452c78a027366915e6994ebf32",
-  "note": "首次带在线更新，打开工具自动检查新版本"
+  "version": "1.8.0",
+  "zip": "https://aka.doubaocdn.com/s/2ClVkv75en",
+  "sha256": "f84a7fd8c81eaaa84ea840e793162a551bf3fb557fdb4e05dee4435872b95c9b",
+  "note": "加封面页补了视频文件夹/输出文件夹，不用再回①页选路径"
 }
