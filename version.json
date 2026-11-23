@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "zip": "https://aka.doubaocdn.com/s/2ClVkv75en",
-  "sha256": "f84a7fd8c81eaaa84ea840e793162a551bf3fb557fdb4e05dee4435872b95c9b",
-  "note": "加封面页补了视频文件夹/输出文件夹，不用再回①页选路径"
+  "version": "1.9.0",
+  "zip": "https://aka.doubaocdn.com/s/3wjvdIMuim",
+  "sha256": "e8a924613718d8559f8bf486487fe3cf7ebd3028b32d87124b18ba9a1c33e641",
+  "note": "加封面页照参考软件重排（图片目录+张数/刷新数量/选择目录/打开目录、视频列表+加载视频/去除重复/刷新素材/清空列表、保存文件夹、开始添加/停止添加/线程数量、运行记录）；所有选目录对话框都换成带路径栏和文件夹列表的新式选择器"
 }
