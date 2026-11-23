@@ -1,6 +1,6 @@
 {
-  "version": "1.9.13",
-  "zip": "https://aka.doubaocdn.com/s/LvzAzfxXnL",
-  "sha256": "28073a8716784bb55847f8ce74d00a464c0a8a40b9748ca4bf740659879b8bc4",
-  "note": "修加封面后部分片子不能播/拖进度卡死：源片音轨远比画面短时（这批起量衍生就是音轨只剩0.1秒），自动补一条等长静音轨；封面段的 profile/level 跟源片严格对齐；源片不是 h264 时自动改走重编码，不再硬拼"
+  "version": "1.9.16",
+  "zip": "https://aka.doubaocdn.com/s/MTPg3Rfqyt",
+  "sha256": "a9aa762d517dbb1a4c37fe8e35cc7f01a0cbd3aea181d216fd190dac5173fc5b",
+  "note": "新增第 4 页「改 MD5」：只重新打包不重编码，画面时长完全不变、文件 MD5 必变，100MB 一条约 1 秒，音轨残缺会自动补等长静音轨；选择窗口两种模式都保留了——「选文件夹」和「选视频（Ctrl/Shift 多选）」，加封面页也加了「选视频」按钮"
 }
