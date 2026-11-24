@@ -1,6 +1,6 @@
 {
-  "version": "1.9.71",
-  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/latest/download/dedupe-tool-update-v1.9.71.zip",
-  "sha256": "cf511a028378194f53a4540418a7a694ceecf9fa665f1573ceeb60f7be6accb5",
-  "note": "修证书报错：下载时自动依次尝试 certifi 证书包、系统证书、最后兜底跳过校验（文件仍按 sha256 校验）。同时组件下载走同一套逻辑。装法：本版请先手动解压覆盖一次，之后自动更新恢复正常。"
+  "version": "1.9.75",
+  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/latest/download/dedupe-tool-update-v1.9.75.zip",
+  "sha256": "bd7250f80a2010e46396298128f760ac9864a4f26ea7e19d86d3097211677372",
+  "note": "过审预检的扫描进度并入「② 视频批量去重」那个日志框，统一在前面这一处显示：每行前面带【预检】前缀，开始和结束各插一条分隔线；预检页底部自己的日志框同步保留，两处内容一致。"
 }
