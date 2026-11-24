@@ -1,6 +1,6 @@
 {
   "version": "1.9.75",
-  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/latest/download/dedupe-tool-update-v1.9.75.zip",
+  "zip": "https://aka.doubaocdn.com/s/YhgHMHUFcN",
   "sha256": "bd7250f80a2010e46396298128f760ac9864a4f26ea7e19d86d3097211677372",
-  "note": "过审预检的扫描进度并入「② 视频批量去重」那个日志框，统一在前面这一处显示：每行前面带【预检】前缀，开始和结束各插一条分隔线；预检页底部自己的日志框同步保留，两处内容一致。"
+  "note": "过审预检的扫描进度并入「② 视频批量去重」日志框，行首带【预检】前缀，开始/结束各一条分隔线。更新包走临时直链，等 GitHub Release 传好再换回仓库地址。"
 }
