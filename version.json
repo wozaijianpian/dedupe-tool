@@ -1,6 +1,6 @@
 {
-  "version": "1.9.75",
-  "zip": "https://aka.doubaocdn.com/s/YhgHMHUFcN",
-  "sha256": "bd7250f80a2010e46396298128f760ac9864a4f26ea7e19d86d3097211677372",
-  "note": "过审预检的扫描进度并入「② 视频批量去重」日志框，行首带【预检】前缀，开始/结束各一条分隔线。更新包走临时直链，等 GitHub Release 传好再换回仓库地址。"
+  "version": "1.9.76",
+  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/latest/download/dedupe-tool-update-v1.9.76.zip",
+  "sha256": "105f37bbc6a4e7298a76794a515eb63547cf37d3aa9a1639de4ee23ac332938e",
+  "note": "预检页去掉自己的日志框，扫描日志统一并入「② 视频批量去重」最下面那个日志框；同时把扫描进度同步到去重页的进度条、百分比和状态行（过审预检 3/8），不再一直是 0%。预检页左右两块加高到 494，按钮下移。"
 }
