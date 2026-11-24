@@ -1,6 +1,6 @@
 {
-  "version": "1.9.65",
-  "zip": "https://aka.doubaocdn.com/s/cDOIbfnbFf",
-  "sha256": "5a437000169af69fbfb732396ed98877af9f010dcaf492d1f56a725bb8e64de1",
-  "note": "找到根因了：顶栏一直被运行时自动布局引擎二次改坐标（它把版本号标签按文字量撑/推，右界顶到按钮）。本版把顶栏整个排除出自动布局，并在布局跑完后强制复位版本号 540、按钮 716、副标题 880，两者间固定 26px 空隙。"
+  "version": "1.9.70",
+  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/latest/download/dedupe-tool-update-v1.9.70.1.zip",
+  "sha256": "2dfb29a9a5ad012982a0afa11f5ddef08a7f57df65a99b667acc9f8ae9f67339",
+  "note": "过审预检：点「开始扫描」自动检测并下载识别组件（约 176MB，只下一次），支持 part1/part2 的 zip 分卷自动解压拼接，拼接后按模型指纹 sha256 校验，传反或损坏会提示重下。更新包改为 GitHub Release 下载。"
 }
