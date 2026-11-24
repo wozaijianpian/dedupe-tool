@@ -1,6 +1,6 @@
 {
-  "version": "1.9.70",
-  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/latest/download/dedupe-tool-update-v1.9.70.1.zip",
-  "sha256": "2dfb29a9a5ad012982a0afa11f5ddef08a7f57df65a99b667acc9f8ae9f67339",
-  "note": "过审预检：点「开始扫描」自动检测并下载识别组件（约 176MB，只下一次），支持 part1/part2 的 zip 分卷自动解压拼接，拼接后按模型指纹 sha256 校验，传反或损坏会提示重下。更新包改为 GitHub Release 下载。"
+  "version": "1.9.71",
+  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/latest/download/dedupe-tool-update-v1.9.71.zip",
+  "sha256": "cf511a028378194f53a4540418a7a694ceecf9fa665f1573ceeb60f7be6accb5",
+  "note": "修证书报错：下载时自动依次尝试 certifi 证书包、系统证书、最后兜底跳过校验（文件仍按 sha256 校验）。同时组件下载走同一套逻辑。装法：本版请先手动解压覆盖一次，之后自动更新恢复正常。"
 }
