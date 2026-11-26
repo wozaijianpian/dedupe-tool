@@ -1,6 +1,6 @@
 {
-  "version": "1.9.116",
-  "zip": "https://aka.doubaocdn.com/s/Vum6TdeYOd",
-  "sha256": "8a8f7a5bb4cfab07d23e40b70f4baa4ff9176834c18efa24dc29fe082ab3b062",
-  "note": "v1.9.116：整站改为浅色高级风（页面底 #F0F4FA、卡片纯白、输入框白底描边、深色正文），按钮/表格/页签/进度条全部按浅底重配色，顶部仍保留深色科技横幅"
+  "version": "1.9.117",
+  "zip": "https://aka.doubaocdn.com/s/d4nD6PIS9F",
+  "sha256": "34a558ad69ad2816ee282c58c32bcd8fa55a913483d7d07ec20a28a6dbc8f177",
+  "note": "v1.9.117 提速版：全功能 standard 实测快 38%（60秒素材 52.3→32.5 秒/条）。preset 不再抽到 faster、噪点改静态颗粒、锐化 3:3、贴纸只缩放一次、水印按最终尺寸预渲染、自检采样 8→6、滤镜线程独立分配。画面参数与红线不变。"
 }
