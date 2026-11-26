@@ -1,6 +1,6 @@
 {
-  "version": "1.9.137",
-  "zip": "https://aka.doubaocdn.com/s/uYlF59Z785",
-  "sha256": "a35e4246388eb2cab971b30b9debff5a5960b7150af5ddc68575fdfb32de08d2",
-  "note": "v1.9.137：排版自检改为后台静默执行——撤掉设置页按钮，每次启动自动扫一遍重叠/越界，结果写 log\\layout_check.txt 并在日志区留一行，不弹窗、不占界面。"
+  "version": "1.9.139",
+  "zip": "https://aka.doubaocdn.com/s/zXV8Wkcem4",
+  "sha256": "b028cb54aac29731b0c12ee4ff4618c26ae7e40de04156f462305b31358fae9f",
+  "note": "v1.9.139：后缀标签改字距均分排版——不论 2 字还是 4 字，首字左边、末字右边都落在同一条竖线上，中间按字距平均撑开（新增 New-SpreadLabel 绘制，后续同类列标签直接复用）。"
 }
