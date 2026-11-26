@@ -1,6 +1,6 @@
 {
-  "version": "1.9.117",
-  "zip": "https://aka.doubaocdn.com/s/d4nD6PIS9F",
-  "sha256": "34a558ad69ad2816ee282c58c32bcd8fa55a913483d7d07ec20a28a6dbc8f177",
-  "note": "v1.9.117 提速版：全功能 standard 实测快 38%（60秒素材 52.3→32.5 秒/条）。preset 不再抽到 faster、噪点改静态颗粒、锐化 3:3、贴纸只缩放一次、水印按最终尺寸预渲染、自检采样 8→6、滤镜线程独立分配。画面参数与红线不变。"
+  "version": "1.9.118",
+  "zip": "https://aka.doubaocdn.com/s/JLPaaUqBJh",
+  "sha256": "c227aafda3b8f8b803bd96f5ac1d811c12cd1c1ec6aabbee37e52b6d6e67093e",
+  "note": "v1.9.118 连续处理：①页勾上「跑完自动接着做：加封面→改MD5」，点一次「开始处理」就依次跑到完，不用再点第二次；③加封面页也可勾「跑完自动接着改MD5」。中间不再弹输出文件夹，全部跑完才弹。另含 v1.9.117 的全套提速（全功能实测快 38%）。"
 }
