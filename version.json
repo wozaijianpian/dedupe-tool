@@ -1,6 +1,6 @@
 {
-  "version": "1.9.174",
-  "zip": "https://aka.doubaocdn.com/s/jffwWntl7c",
-  "sha256": "6c304c7a9818896fda4edcedd07d714ef9dcb10aedbd273f1b8896c0bf76ad52",
-  "note": "修错位与压行：去重页的块直接建在 $panD 右半边（视频列表下方），不再被 Regroup 搬歪；加封面/改MD5 页的两块各放进固定位置子面板（自带滚动），不再压到上方目录行。"
+  "version": "1.9.179",
+  "zip": "https://aka.doubaocdn.com/s/ZeUOVHdc0q",
+  "sha256": "426f0dfd489640208814419de915967ce65a9ff2d921139e8a77e1fd155528d8",
+  "note": "跨功能块按截图挪位：去重页 700,48（视频列表上方，列表下移）；加封面页 656,148（选视频右边、保存文件夹按钮下方）"
 }
