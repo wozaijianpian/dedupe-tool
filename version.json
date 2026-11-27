@@ -1,6 +1,6 @@
 {
-  "version": "1.9.193",
-  "zip": "https://aka.doubaocdn.com/s/acglDxF0jp",
-  "sha256": "ec9dd6df9e7a798f9bcf42be7c694adbca42a317a38ee7d82b5408e17a561c51",
-  "note": "加封面排队块补 刷新数量/打开目录；改MD5 补 选视频/打开；右列跟排队块联动；去重页表格铺满"
+  "version": "1.9.196",
+  "zip": "https://aka.doubaocdn.com/s/qJqNRKLHHQ",
+  "sha256": "f2fcf59e643ca6c2ec41bfe74a94cb31b1b96f2d185ec5ffa388652bab76a7d9",
+  "note": "列表铺满按真实窗口尺寸重算：显示后/切页/缩放三次重算，最后一列吃余宽，去掉横向滚动条"
 }
