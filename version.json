@@ -1,6 +1,6 @@
 {
-  "version": "1.9.162",
-  "zip": "https://aka.doubaocdn.com/s/YvYInshrGZ",
-  "sha256": "53f890381168295e2a4d71bd7d58e16f63d80c60dc0339d780140eb726fc8d42",
-  "note": "排队改成一个开关：默认关，关着时里面没有任何内容、不占版面；勾上才弹填写（第2、3份，加封面页可各配封面），填好才生效，取消自动弹回关；再关掉立即清空。去重/加封面/改MD5 三页都有。"
+  "version": "1.9.164",
+  "zip": "https://aka.doubaocdn.com/s/xMk7fuVyCJ",
+  "sha256": "a67969eff496caed30128c35c963454be5d0e0e197d40f3ab539bb6ff2a74dcf",
+  "note": "取消⑥排队页，队列只保留在功能页里的排队块（去重/加封面/改MD5 各 2 份等待）；接力规则不变。"
 }
