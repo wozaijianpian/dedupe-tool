@@ -1,6 +1,6 @@
 {
-  "version": "1.9.204",
-  "zip": "https://aka.doubaocdn.com/s/YCLnacVlNX",
-  "sha256": "897b590276c8fc742142e61577e350d37b9baeb440ea40df1f220a92a64759b2",
-  "note": "改MD5排队行三个按钮统一84宽成列对齐，保存目录行的打开跟视频行同一列"
+  "version": "1.9.206",
+  "zip": "https://aka.doubaocdn.com/s/QyWNrYmmTl",
+  "sha256": "37a15ff1d5c9d287dfa5eed7bdcb16a96b168832b2004576b8da26603e2817d4",
+  "note": "加封面排队三行统一三列，打开目录上下对齐"
 }
