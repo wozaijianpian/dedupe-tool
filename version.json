@@ -1,6 +1,6 @@
 {
-  "version": "1.9.173",
-  "zip": "https://aka.doubaocdn.com/s/yHW5txOSzV",
-  "sha256": "035f93b1a198bc47275df9e1eb8655c61aad08eab352167403a351f8072a1a96",
-  "note": "窄栏不挤字：去重页跨功能块改竖排（说明字一行+整栏只读框），开关与行标签文案缩短；加封面页跨功能块横排列宽加大（122/96/780）；折叠与自动重排照旧。"
+  "version": "1.9.174",
+  "zip": "https://aka.doubaocdn.com/s/jffwWntl7c",
+  "sha256": "6c304c7a9818896fda4edcedd07d714ef9dcb10aedbd273f1b8896c0bf76ad52",
+  "note": "修错位与压行：去重页的块直接建在 $panD 右半边（视频列表下方），不再被 Regroup 搬歪；加封面/改MD5 页的两块各放进固定位置子面板（自带滚动），不再压到上方目录行。"
 }
