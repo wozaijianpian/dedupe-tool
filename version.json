@@ -1,6 +1,6 @@
 {
-  "version": "1.9.189",
-  "zip": "https://aka.doubaocdn.com/s/imNR2Gm7e4",
-  "sha256": "9e60c35d58bf66a9f079fe82a77219ffebf9e1964c38f60a33dfa39159dec0b4",
-  "note": "排队块每一行统一成字+框+按钮同一行，字不压框；折叠/展开下面自动补位；加封面每份三行（封面目录+视频+保存）；视频列表撑到页底"
+  "version": "1.9.190",
+  "zip": "https://aka.doubaocdn.com/s/OIwVJyL0UV",
+  "sha256": "f68d90db8a3887cc6aabb8dc4c8ee96389e735a4228f7904df85d845a9f99dae",
+  "note": "收起也让 34 不压控件；加封面规则字固定右列不再被按钮压；列表宽度撑满页宽"
 }
