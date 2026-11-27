@@ -1,6 +1,6 @@
 {
-  "version": "1.9.191",
-  "zip": "https://aka.doubaocdn.com/s/koYq2KRujr",
-  "sha256": "4c4428ca2ce36723b088f76323f193609022260c7b587356c93d99c6ce1fe5ab",
-  "note": "三页关掉全局自动排版（错位根因）；排队块每行统一字-框-按钮；收起时让位 26/30/30；启动写 log\\ui_dump.txt 取证"
+  "version": "1.9.192",
+  "zip": "https://aka.doubaocdn.com/s/BdTTL0awtV",
+  "sha256": "c9d1c6042c84a962fa13b5acd4476fdaa2b040cb2f938cc0a85530315bebf1ab",
+  "note": "排除 Regroup 面板的自动排版（错位真凶）；取消页面自动压缩，内容超出就保留滚动条，按钮可滚可点"
 }
