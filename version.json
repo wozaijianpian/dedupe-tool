@@ -1,6 +1,6 @@
 {
-  "version": "1.9.196",
-  "zip": "https://aka.doubaocdn.com/s/qJqNRKLHHQ",
-  "sha256": "f2fcf59e643ca6c2ec41bfe74a94cb31b1b96f2d185ec5ffa388652bab76a7d9",
-  "note": "列表铺满按真实窗口尺寸重算：显示后/切页/缩放三次重算，最后一列吃余宽，去掉横向滚动条"
+  "version": "1.9.197",
+  "zip": "https://aka.doubaocdn.com/s/puw9i6UokQ",
+  "sha256": "52871978d17f15fe7ca64f23fd87f1b3b09d88bc576c5a927a25a3b93d4a1c59",
+  "note": "启动先更新+版本号不读缓存；运行中8秒首查、每60秒查一次并反复滚动提示；点了更新立刻装"
 }
