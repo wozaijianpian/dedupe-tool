@@ -1,6 +1,6 @@
 {
-  "version": "1.9.187",
-  "zip": "https://aka.doubaocdn.com/s/ayVLtVHz6Z",
-  "sha256": "556e0ea470d9d1c5b24ce19681836a9a76d885408ef733d70e323b83583e4c34",
-  "note": "排队块每份两行：素材文件夹 + 输出文件夹，各带选目录按钮；输出空着就按第一份规则自动算"
+  "version": "1.9.189",
+  "zip": "https://aka.doubaocdn.com/s/imNR2Gm7e4",
+  "sha256": "9e60c35d58bf66a9f079fe82a77219ffebf9e1964c38f60a33dfa39159dec0b4",
+  "note": "排队块每一行统一成字+框+按钮同一行，字不压框；折叠/展开下面自动补位；加封面每份三行（封面目录+视频+保存）；视频列表撑到页底"
 }
