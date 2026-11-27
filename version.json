@@ -1,6 +1,6 @@
 {
-  "version": "1.9.182",
-  "zip": "https://aka.doubaocdn.com/s/jjUiwu1tlh",
-  "sha256": "98d85bbba7f47bf4028a8fc3a57135ce3726d9607201cb54ad6b955b59b78c52",
-  "note": "跨功能下拉只列能接上的工序：去重→加封面→改MD5 / 去重→改MD5 / 加封面→改MD5，乱序不给选"
+  "version": "1.9.187",
+  "zip": "https://aka.doubaocdn.com/s/ayVLtVHz6Z",
+  "sha256": "556e0ea470d9d1c5b24ce19681836a9a76d885408ef733d70e323b83583e4c34",
+  "note": "排队块每份两行：素材文件夹 + 输出文件夹，各带选目录按钮；输出空着就按第一份规则自动算"
 }
