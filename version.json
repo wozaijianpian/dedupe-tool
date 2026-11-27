@@ -1,6 +1,6 @@
 {
-  "version": "1.9.192",
-  "zip": "https://aka.doubaocdn.com/s/BdTTL0awtV",
-  "sha256": "c9d1c6042c84a962fa13b5acd4476fdaa2b040cb2f938cc0a85530315bebf1ab",
-  "note": "排除 Regroup 面板的自动排版（错位真凶）；取消页面自动压缩，内容超出就保留滚动条，按钮可滚可点"
+  "version": "1.9.193",
+  "zip": "https://aka.doubaocdn.com/s/acglDxF0jp",
+  "sha256": "ec9dd6df9e7a798f9bcf42be7c694adbca42a317a38ee7d82b5408e17a561c51",
+  "note": "加封面排队块补 刷新数量/打开目录；改MD5 补 选视频/打开；右列跟排队块联动；去重页表格铺满"
 }
