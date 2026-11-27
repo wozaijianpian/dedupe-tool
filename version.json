@@ -1,6 +1,6 @@
 {
-  "version": "1.9.197",
-  "zip": "https://aka.doubaocdn.com/s/puw9i6UokQ",
-  "sha256": "52871978d17f15fe7ca64f23fd87f1b3b09d88bc576c5a927a25a3b93d4a1c59",
-  "note": "启动先更新+版本号不读缓存；运行中8秒首查、每60秒查一次并反复滚动提示；点了更新立刻装"
+  "version": "1.9.198",
+  "zip": "https://aka.doubaocdn.com/s/7LrrqWYZSP",
+  "sha256": "097be978e753d2ce1238a7dc28fb1512bc71dbb5673ff91b4c117d404b16c1b0",
+  "note": "改MD5/加封面列表限宽不再压右栏说明；拼接页勾选框与2帧说明不再叠字；去重页跨功能说明放大到9号"
 }
