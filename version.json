@@ -1,6 +1,6 @@
 {
-  "version": "1.9.179",
-  "zip": "https://aka.doubaocdn.com/s/ZeUOVHdc0q",
-  "sha256": "426f0dfd489640208814419de915967ce65a9ff2d921139e8a77e1fd155528d8",
-  "note": "跨功能块按截图挪位：去重页 700,48（视频列表上方，列表下移）；加封面页 656,148（选视频右边、保存文件夹按钮下方）"
+  "version": "1.9.182",
+  "zip": "https://aka.doubaocdn.com/s/jjUiwu1tlh",
+  "sha256": "98d85bbba7f47bf4028a8fc3a57135ce3726d9607201cb54ad6b955b59b78c52",
+  "note": "跨功能下拉只列能接上的工序：去重→加封面→改MD5 / 去重→改MD5 / 加封面→改MD5，乱序不给选"
 }
