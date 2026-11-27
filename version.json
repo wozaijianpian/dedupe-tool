@@ -1,6 +1,6 @@
 {
-  "version": "1.9.190",
-  "zip": "https://aka.doubaocdn.com/s/OIwVJyL0UV",
-  "sha256": "f68d90db8a3887cc6aabb8dc4c8ee96389e735a4228f7904df85d845a9f99dae",
-  "note": "收起也让 34 不压控件；加封面规则字固定右列不再被按钮压；列表宽度撑满页宽"
+  "version": "1.9.191",
+  "zip": "https://aka.doubaocdn.com/s/koYq2KRujr",
+  "sha256": "4c4428ca2ce36723b088f76323f193609022260c7b587356c93d99c6ce1fe5ab",
+  "note": "三页关掉全局自动排版（错位根因）；排队块每行统一字-框-按钮；收起时让位 26/30/30；启动写 log\\ui_dump.txt 取证"
 }
