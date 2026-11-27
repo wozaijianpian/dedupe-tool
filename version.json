@@ -1,6 +1,6 @@
 {
-  "version": "1.9.200",
-  "zip": "https://aka.doubaocdn.com/s/DgkYiJV29m",
-  "sha256": "b2727a11d887192bc008b8a2c577b30d1a16993a3ec77ec95d2eda9ee714e3da",
-  "note": "说明字放大到9.5；去重页视频表格上提到说明字下面12px，空档消除"
+  "version": "1.9.204",
+  "zip": "https://aka.doubaocdn.com/s/YCLnacVlNX",
+  "sha256": "897b590276c8fc742142e61577e350d37b9baeb440ea40df1f220a92a64759b2",
+  "note": "改MD5排队行三个按钮统一84宽成列对齐，保存目录行的打开跟视频行同一列"
 }
