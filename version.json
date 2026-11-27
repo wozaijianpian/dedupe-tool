@@ -1,6 +1,6 @@
 {
-  "version": "1.9.198",
-  "zip": "https://aka.doubaocdn.com/s/7LrrqWYZSP",
-  "sha256": "097be978e753d2ce1238a7dc28fb1512bc71dbb5673ff91b4c117d404b16c1b0",
-  "note": "改MD5/加封面列表限宽不再压右栏说明；拼接页勾选框与2帧说明不再叠字；去重页跨功能说明放大到9号"
+  "version": "1.9.200",
+  "zip": "https://aka.doubaocdn.com/s/DgkYiJV29m",
+  "sha256": "b2727a11d887192bc008b8a2c577b30d1a16993a3ec77ec95d2eda9ee714e3da",
+  "note": "说明字放大到9.5；去重页视频表格上提到说明字下面12px，空档消除"
 }
