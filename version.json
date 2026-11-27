@@ -1,6 +1,6 @@
 {
-  "version": "1.9.164",
-  "zip": "https://aka.doubaocdn.com/s/xMk7fuVyCJ",
-  "sha256": "a67969eff496caed30128c35c963454be5d0e0e197d40f3ab539bb6ff2a74dcf",
-  "note": "取消⑥排队页，队列只保留在功能页里的排队块（去重/加封面/改MD5 各 2 份等待）；接力规则不变。"
+  "version": "1.9.166",
+  "zip": "https://aka.doubaocdn.com/s/cXD0SxF3Ih",
+  "sha256": "045c1e23fd27cbb969f9861c60eb307d436571ba91380591dbf0200966eb5899",
+  "note": "排队块统一挂到整页选项最下面（自动取最靠下控件+14px），加封面页和改MD5 页开启整页滚动：开关没勾整块隐藏、正常一页；勾上可往下滚看全第1/2/3份。"
 }
