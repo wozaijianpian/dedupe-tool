@@ -1,10 +1,10 @@
 {
-  "version": "1.9.220",
-  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.220/dedupe-tool-update-v1.9.220.zip",
-  "sha256": "6eadc82e9f35cc5fc2adc98322aa89814b2415f902ba43091a4556f276c33b6c",
+  "version": "1.9.222",
+  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.222/dedupe-tool-update-v1.9.222.zip",
+  "sha256": "d448242e8a2f891f2335f638404b3cfff1aebbcee27168ca8340d280b0f52b97",
   "mirrors": [
-    "https://aka.doubaocdn.com/s/BffwLU00KW",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.220/dedupe-tool-update-v1.9.220.zip"
+    "https://aka.doubaocdn.com/s/IUfAYErg0v",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.222/dedupe-tool-update-v1.9.222.zip"
   ],
-  "note": "设置页重排：功能页开关置顶，六张卡一屏装全不用滚；引擎与动画并入维护卡"
+  "note": "修打包事故：包内不再带 log 和本机测试源；龟速自动换源"
 }
