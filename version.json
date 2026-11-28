@@ -1,10 +1,10 @@
 {
-  "version": "1.9.252",
-  "zip": "https://aka.doubaocdn.com/s/39cM27FIJ3",
-  "sha256": "53c680d2eea645ad20124196e91cfe91cffd07c0cbe23af73782f565841d6295",
+  "version": "1.9.253",
+  "zip": "https://aka.doubaocdn.com/s/xVXFCDxhdZ",
+  "sha256": "2f51d7b6a774bb35bd703f6b25229d1bbf9b594dabb11f035107afac8e483656",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.252/dedupe-tool-update-v1.9.252.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.252/dedupe-tool-update-v1.9.252.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.253/dedupe-tool-update-v1.9.253.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.253/dedupe-tool-update-v1.9.253.zip"
   ],
-  "note": "restore Start-WebKeep/Start-WebAlign (web tabs white page fix)"
+  "note": "perf: move window only when geometry differs; web tab log button; red error status"
 }
