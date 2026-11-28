@@ -1,10 +1,10 @@
 {
-  "version": "1.9.227",
-  "zip": "https://aka.doubaocdn.com/s/3lph2aiViG",
-  "sha256": "3ce500085b1357aabe658769f35756fa3f18e427430c701ebb54758d7442ac62",
+  "version": "1.9.229",
+  "zip": "https://aka.doubaocdn.com/s/vKx8VObuAg",
+  "sha256": "76f4fc695e8a97a917ee3890e814e0b0fbd0cafb0b43fc19fd95538161f52c7b",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.227/dedupe-tool-update-v1.9.227.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.227/dedupe-tool-update-v1.9.227.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.229/dedupe-tool-update-v1.9.229.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.229/dedupe-tool-update-v1.9.229.zip"
   ],
-  "note": "⑥页改为追加到末尾，⑤软件设置不再被挤掉"
+  "note": "抖音指数能读搜索结果卡片：带封面缩略图+指数+粉丝+时间+时长"
 }
