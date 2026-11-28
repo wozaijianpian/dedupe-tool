@@ -1,10 +1,10 @@
 {
-  "version": "1.9.229",
-  "zip": "https://aka.doubaocdn.com/s/vKx8VObuAg",
-  "sha256": "76f4fc695e8a97a917ee3890e814e0b0fbd0cafb0b43fc19fd95538161f52c7b",
+  "version": "1.9.231",
+  "zip": "https://aka.doubaocdn.com/s/k0pbuQCGhM",
+  "sha256": "b36908e830f0d4d814ab834a81a79d0ffff4604590faea76c6af4c0ebd1ce61e",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.229/dedupe-tool-update-v1.9.229.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.229/dedupe-tool-update-v1.9.229.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.231/dedupe-tool-update-v1.9.231.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.231/dedupe-tool-update-v1.9.231.zip"
   ],
-  "note": "抖音指数能读搜索结果卡片：带封面缩略图+指数+粉丝+时间+时长"
+  "note": "抖音指数照搬网页双列卡片；浏览器后台不弹窗"
 }
