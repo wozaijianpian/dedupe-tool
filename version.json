@@ -1,10 +1,10 @@
 {
-  "version": "1.9.222",
-  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.222/dedupe-tool-update-v1.9.222.zip",
-  "sha256": "d448242e8a2f891f2335f638404b3cfff1aebbcee27168ca8340d280b0f52b97",
+  "version": "1.9.223",
+  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.223/dedupe-tool-update-v1.9.223.zip",
+  "sha256": "0cfabaff3c0d4c5d102a7878b2b6103bd48b5133c45fa7030d47518f6e1c283a",
   "mirrors": [
-    "https://aka.doubaocdn.com/s/IUfAYErg0v",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.222/dedupe-tool-update-v1.9.222.zip"
+    "https://aka.doubaocdn.com/s/Wz7nOFoDEr",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.223/dedupe-tool-update-v1.9.223.zip"
   ],
-  "note": "修打包事故：包内不再带 log 和本机测试源；龟速自动换源"
+  "note": "关闭按钮：更新中/跑任务中也能关，确认后立刻退出不留僵尸进程"
 }
