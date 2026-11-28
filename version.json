@@ -1,10 +1,10 @@
 {
-  "version": "1.9.245",
-  "zip": "https://aka.doubaocdn.com/s/jEEg7NHixU",
-  "sha256": "6c671e0902c5d9aad5f49d552db47c9c97a20a5f8675634ce5e4048af6ebfd94",
+  "version": "1.9.248",
+  "zip": "https://aka.doubaocdn.com/s/p71llSdO0N",
+  "sha256": "fb665dae07e6084fa1201e6e4caf45985f24e44c2e31fece76e0fa022c680ef2",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.245/dedupe-tool-update-v1.9.245.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.245/dedupe-tool-update-v1.9.245.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.248/dedupe-tool-update-v1.9.248.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.248/dedupe-tool-update-v1.9.248.zip"
   ],
-  "note": "「读取结果」只读当前页已加载的结果，不重搜不抓包"
+  "note": "⑥ 页搜索真触发（填词+点搜索/回车，两轮重试）、状态栏两行不再截断"
 }
