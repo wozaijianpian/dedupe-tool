@@ -1,10 +1,10 @@
 {
-  "version": "1.9.234",
-  "zip": "https://aka.doubaocdn.com/s/8RkCmwAD89",
-  "sha256": "43216422151ac84dda54518a3d6861da8829986757ae890ff935f51c2951ae88",
+  "version": "1.9.236",
+  "zip": "https://aka.doubaocdn.com/s/XCAhrCmu7Y",
+  "sha256": "030428c85874fe268de98023b2bffc8a4f2e1be481f999d262c14d8806203147",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.234/dedupe-tool-update-v1.9.234.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.234/dedupe-tool-update-v1.9.234.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.236/dedupe-tool-update-v1.9.236.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.236/dedupe-tool-update-v1.9.236.zip"
   ],
-  "note": "⑥ 滚轮可滑+封面重抓+双击跳⑦看+诊断"
+  "note": "⑦⑧ 标签页双保险注入+失败日志；⑥ 沿用按权重挑搜索结果页"
 }
