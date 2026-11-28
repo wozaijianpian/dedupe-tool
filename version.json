@@ -1,10 +1,10 @@
 {
-  "version": "1.9.251",
-  "zip": "https://aka.doubaocdn.com/s/woU7Y5tcOh",
-  "sha256": "3a9fa3d0b8a5d2009d4ea596072e4f497e5df9a0c6e0f843dc2166aae9076477",
+  "version": "1.9.252",
+  "zip": "https://aka.doubaocdn.com/s/39cM27FIJ3",
+  "sha256": "53c680d2eea645ad20124196e91cfe91cffd07c0cbe23af73782f565841d6295",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.251/dedupe-tool-update-v1.9.251.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.251/dedupe-tool-update-v1.9.251.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.252/dedupe-tool-update-v1.9.252.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.252/dedupe-tool-update-v1.9.252.zip"
   ],
-  "note": "v1.9.251 fix embed caption"
+  "note": "restore Start-WebKeep/Start-WebAlign (web tabs white page fix)"
 }
