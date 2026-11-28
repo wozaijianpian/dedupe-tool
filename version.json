@@ -1,10 +1,10 @@
 {
-  "version": "1.9.239",
-  "zip": "https://aka.doubaocdn.com/s/2RxHeXF0yf",
-  "sha256": "b847f15c207e02b71f3f2a8822646e77f8b4e4d951f2a4a46c140476126b5ad9",
+  "version": "1.9.243",
+  "zip": "https://aka.doubaocdn.com/s/6xY72mVPs8",
+  "sha256": "ff25450bfcdf697c159e6de54a95588d074399255be9accd44d0cbbdc93c0100",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.239/dedupe-tool-update-v1.9.239.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.239/dedupe-tool-update-v1.9.239.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.243/dedupe-tool-update-v1.9.243.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.243/dedupe-tool-update-v1.9.243.zip"
   ],
-  "note": "导航改左侧竖排；⑦⑧ 用本机 Edge/Chrome 内嵌；⑥ 固定走后台浏览器"
+  "note": "盖掉顶部小点；左侧导航放大；设置里加界面缩放与字号"
 }
