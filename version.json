@@ -1,10 +1,10 @@
 {
-  "version": "1.9.236",
-  "zip": "https://aka.doubaocdn.com/s/XCAhrCmu7Y",
-  "sha256": "030428c85874fe268de98023b2bffc8a4f2e1be481f999d262c14d8806203147",
+  "version": "1.9.239",
+  "zip": "https://aka.doubaocdn.com/s/2RxHeXF0yf",
+  "sha256": "b847f15c207e02b71f3f2a8822646e77f8b4e4d951f2a4a46c140476126b5ad9",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.236/dedupe-tool-update-v1.9.236.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.236/dedupe-tool-update-v1.9.236.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.239/dedupe-tool-update-v1.9.239.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.239/dedupe-tool-update-v1.9.239.zip"
   ],
-  "note": "⑦⑧ 标签页双保险注入+失败日志；⑥ 沿用按权重挑搜索结果页"
+  "note": "导航改左侧竖排；⑦⑧ 用本机 Edge/Chrome 内嵌；⑥ 固定走后台浏览器"
 }
