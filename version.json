@@ -1,11 +1,11 @@
 {
-  "version": "1.9.218",
-  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.218/dedupe-tool-update-v1.9.218.zip",
-  "sha256": "46a74d6979f1d2889edb47f720afcd37f328c070ec6a2cb68a435a5ea84253d8",
+  "version": "1.9.219",
+  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.219/dedupe-tool-update-v1.9.219.zip",
+  "sha256": "86bfd2c91ab1e3d9c47e934855463029d88b418b05b9d44063acd7d65f5d713b",
   "mirrors": [
-    "https://aka.doubaocdn.com/s/NXbOcIqlYV",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.218/dedupe-tool-update-v1.9.218.zip",
-    "https://ghfast.top/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.218/dedupe-tool-update-v1.9.218.zip"
+    "https://aka.doubaocdn.com/s/PquKsBDATB",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.219/dedupe-tool-update-v1.9.219.zip",
+    "shturl.cc/8K4QuTnZGuq9Nyp8uCihxNdZ9hbw5VKwaMdvfa1KOzMBPVaINvBNobGgDCyMUwUd5Va1yYfdkkaPOLIILrFFxD024cvhbqbzRkWEYNlWEPJ7aYgR"
   ],
-  "note": "修复设置页滚不动：滚动条常显 + 滚轮转发，⑥页开关在设置页最下方"
+  "note": "下载提速：多源并发测速挑最快，上次成功的源优先；设置页滚轮+滚动条"
 }
