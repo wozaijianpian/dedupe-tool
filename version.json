@@ -1,6 +1,11 @@
 {
-  "version": "1.9.216",
-  "zip": "https://aka.doubaocdn.com/s/iRJIU1bgge",
-  "sha256": "61cea543d8e3501f3a8663fcd44da1788323acfb6d5bb2abcffd218dea4a5373",
-  "note": "⑥页板块下拉：抖音指数/创作指南/趋势报告；视频下原片，另两块导出链接清单"
+  "version": "1.9.217",
+  "zip": "https://aka.doubaocdn.com/s/GnrGbEtl61",
+  "sha256": "7452ce75f6e655c68cc410cb65d2cf9144cf8b6214ff59c31e18f8179044d64e",
+  "mirrors": [
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.217/dedupe-tool-update-v1.9.217.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.217/dedupe-tool-update-v1.9.217.zip",
+    "https://ghfast.top/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.217/dedupe-tool-update-v1.9.217.zip"
+  ],
+  "note": "更新通道抗断：4个入口自动换源、断点续传、连不上用上次结果；⑥页三板块（抖音指数/创作指南/趋势报告）"
 }
