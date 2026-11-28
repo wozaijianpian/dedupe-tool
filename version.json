@@ -4,8 +4,7 @@
   "sha256": "86bfd2c91ab1e3d9c47e934855463029d88b418b05b9d44063acd7d65f5d713b",
   "mirrors": [
     "https://aka.doubaocdn.com/s/PquKsBDATB",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.219/dedupe-tool-update-v1.9.219.zip",
-       "shturl.cc/tpkZL5qxJkFryY5y9ozxc5ywEtycobNZigsCL9RhL2DEXIGP9jjzz9diyuHVwqw3MWNHwWKVXwz9YCeLYBMBN7Gqs11HSstP5M7NwuJmKHvRhfMT"
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.219/dedupe-tool-update-v1.9.219.zip"
   ],
   "note": "下载提速：多源并发测速挑最快，上次成功的源优先；设置页滚轮+滚动条"
 }
