@@ -1,10 +1,10 @@
 {
-  "version": "1.9.219",
-  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.219/dedupe-tool-update-v1.9.219.zip",
-  "sha256": "86bfd2c91ab1e3d9c47e934855463029d88b418b05b9d44063acd7d65f5d713b",
+  "version": "1.9.220",
+  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.220/dedupe-tool-update-v1.9.220.zip",
+  "sha256": "6eadc82e9f35cc5fc2adc98322aa89814b2415f902ba43091a4556f276c33b6c",
   "mirrors": [
-    "https://aka.doubaocdn.com/s/PquKsBDATB",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.219/dedupe-tool-update-v1.9.219.zip"
+    "https://aka.doubaocdn.com/s/BffwLU00KW",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.220/dedupe-tool-update-v1.9.220.zip"
   ],
-  "note": "下载提速：多源并发测速挑最快，上次成功的源优先；设置页滚轮+滚动条"
+  "note": "设置页重排：功能页开关置顶，六张卡一屏装全不用滚；引擎与动画并入维护卡"
 }
