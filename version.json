@@ -1,10 +1,10 @@
 {
-  "version": "1.9.223",
-  "zip": "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.223/dedupe-tool-update-v1.9.223.zip",
-  "sha256": "0cfabaff3c0d4c5d102a7878b2b6103bd48b5133c45fa7030d47518f6e1c283a",
+  "version": "1.9.227",
+  "zip": "https://aka.doubaocdn.com/s/3lph2aiViG",
+  "sha256": "3ce500085b1357aabe658769f35756fa3f18e427430c701ebb54758d7442ac62",
   "mirrors": [
-    "https://aka.doubaocdn.com/s/Wz7nOFoDEr",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.223/dedupe-tool-update-v1.9.223.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.227/dedupe-tool-update-v1.9.227.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.227/dedupe-tool-update-v1.9.227.zip"
   ],
-  "note": "关闭按钮：更新中/跑任务中也能关，确认后立刻退出不留僵尸进程"
+  "note": "⑥页改为追加到末尾，⑤软件设置不再被挤掉"
 }
