@@ -1,10 +1,10 @@
 {
-  "version": "1.9.248",
-  "zip": "https://aka.doubaocdn.com/s/p71llSdO0N",
-  "sha256": "fb665dae07e6084fa1201e6e4caf45985f24e44c2e31fece76e0fa022c680ef2",
+  "version": "1.9.251",
+  "zip": "https://aka.doubaocdn.com/s/woU7Y5tcOh",
+  "sha256": "3a9fa3d0b8a5d2009d4ea596072e4f497e5df9a0c6e0f843dc2166aae9076477",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.248/dedupe-tool-update-v1.9.248.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.248/dedupe-tool-update-v1.9.248.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.251/dedupe-tool-update-v1.9.251.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.251/dedupe-tool-update-v1.9.251.zip"
   ],
-  "note": "⑥ 页搜索真触发（填词+点搜索/回车，两轮重试）、状态栏两行不再截断"
+  "note": "v1.9.251 fix embed caption"
 }
