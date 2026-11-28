@@ -1,10 +1,10 @@
 {
-  "version": "1.9.231",
-  "zip": "https://aka.doubaocdn.com/s/k0pbuQCGhM",
-  "sha256": "b36908e830f0d4d814ab834a81a79d0ffff4604590faea76c6af4c0ebd1ce61e",
+  "version": "1.9.232",
+  "zip": "https://aka.doubaocdn.com/s/Ye30n9CIAA",
+  "sha256": "e18cfb207009cd1bb9e587008375287757d943110066ce28d7a9e69673d5dae7",
   "mirrors": [
-    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.231/dedupe-tool-update-v1.9.231.zip",
-    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.231/dedupe-tool-update-v1.9.231.zip"
+    "https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.232/dedupe-tool-update-v1.9.232.zip",
+    "https://gh-proxy.com/https://github.com/wozaijianpian/dedupe-tool/releases/download/v1.9.232/dedupe-tool-update-v1.9.232.zip"
   ],
-  "note": "抖音指数照搬网页双列卡片；浏览器后台不弹窗"
+  "note": "卡片区可滚动+封面重试下载+双击看视频"
 }
